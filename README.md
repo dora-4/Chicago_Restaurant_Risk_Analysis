@@ -25,7 +25,7 @@ final_report_zzzz.pdf - a document with the more detailed project description
 .DS_Store - DS_Store is a file that stores custom attributes of its containing folder, such as folder view options, icon positions, and other visual information. The name is an abbreviation of Desktop Services Store, reflecting its purpose.
 
 
-## Summary
+## Summary:
 We are interested in discovering the relationship between restaurants’ food inspection risk levels and various attributes for restaurants in the city of Chicago.
 For identifying the food inspection level, we will refer to Chicago Data Portal’s restaurant public data. This database includes a column called “risk”, which is categorized into three levels: low, medium, and high.
 For restaurants’ attributes, we would like to consider a restaurant’s location, rating, price level, etc. To obtain corresponding data, we decided to use Yelp’s API(Yelp Fusion), in combination with Google Map’s restaurant rating section, and Chicago Data Portal’s restaurant data.
